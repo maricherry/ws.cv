@@ -1,0 +1,29 @@
+body {
+  background-color: #d8b9c3;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #856c8b;
+  border-width: 3px;
+  width: 30%;
+}
+
+img {
+  height: 160px;
+}
+
+h3 {
+color: #fcf7bb;
+}
+h1 {
+color: #fcf7bb;
+
+}
+/****************************class TAG**************************/
+.julia:hover
+ {background-color:#dcd6f7;
+width:500px;
+height:500px;
+}
